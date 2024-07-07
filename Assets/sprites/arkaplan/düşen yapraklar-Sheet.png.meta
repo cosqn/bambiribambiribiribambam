@@ -1,0 +1,795 @@
+fileFormatVersion: 2
+guid: ac419d5da26510f4a8870344100e5cbf
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "d\xFC\u015Fen yapraklar-Sheet_0"
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 195
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0606275f19d346e4c8dc2b724b469bde
+      internalID: -81542199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "d\xFC\u015Fen yapraklar-Sheet_1"
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 195
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ad20f4541025041bd58b706aca5cbd
+      internalID: 881915816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "d\xFC\u015Fen yapraklar-Sheet_2"
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 0
+        width: 195
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec69112473a1bab448a436ecdbaf77a9
+      internalID: 1260968072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "d\xFC\u015Fen yapraklar-Sheet_3"
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 0
+        width: 195
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ff1fcb3742a1e4abaafa400f71dcd7
+      internalID: 1743312640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "d\xFC\u015Fen yapraklar-Sheet_4"
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 0
+        width: 195
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb2708d84f771d4c94580b1aef93c6f
+      internalID: 1182780175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "d\xFC\u015Fen yapraklar-Sheet_5"
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 0
+        width: 195
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a4c38983e9bd1489e27386f6b0ff31
+      internalID: 734264029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "d\xFC\u015Fen yapraklar-Sheet_6"
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 0
+        width: 195
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45991afd256fe2498be5ffa3dd91a05
+      internalID: -1314724233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "d\xFC\u015Fen yapraklar-Sheet_7"
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 0
+        width: 195
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9456cc114ecabee4880bfc531c0421a6
+      internalID: 465582544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "d\xFC\u015Fen yapraklar-Sheet_8"
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 0
+        width: 195
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc3f97151d82314fa638146b26d6294
+      internalID: 315500695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "d\xFC\u015Fen yapraklar-Sheet_9"
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 0
+        width: 195
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7bb88db49ed62449d16f90f7349417
+      internalID: -691648856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "d\xFC\u015Fen yapraklar-Sheet_10"
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 0
+        width: 195
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: face0e655236ea547a2ae1c60cf293e2
+      internalID: 1758163541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "d\xFC\u015Fen yapraklar-Sheet_11"
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 0
+        width: 195
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3076d0411e9f94989899b0c54a0f49
+      internalID: 1709254974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "d\xFC\u015Fen yapraklar-Sheet_12"
+      rect:
+        serializedVersion: 2
+        x: 2415
+        y: 0
+        width: 195
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8806cf7d1224134ea5923d45893abfc
+      internalID: -1816073849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "d\xFC\u015Fen yapraklar-Sheet_13"
+      rect:
+        serializedVersion: 2
+        x: 2616
+        y: 0
+        width: 195
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7d6c81780382a4e97ea34ce5d43e5a
+      internalID: 1749821636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "d\xFC\u015Fen yapraklar-Sheet_14"
+      rect:
+        serializedVersion: 2
+        x: 2817
+        y: 0
+        width: 195
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4dc12a50fff1d428ec7011298562c6
+      internalID: -1495262584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "d\xFC\u015Fen yapraklar-Sheet_15"
+      rect:
+        serializedVersion: 2
+        x: 3018
+        y: 0
+        width: 195
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5fe045346e8f7a4fb50e80ddf15ed7f
+      internalID: -1211149415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "d\xFC\u015Fen yapraklar-Sheet_16"
+      rect:
+        serializedVersion: 2
+        x: 3219
+        y: 0
+        width: 195
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f56b119ea2653b4c91a635e5d136435
+      internalID: -1061763408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "d\xFC\u015Fen yapraklar-Sheet_17"
+      rect:
+        serializedVersion: 2
+        x: 3420
+        y: 0
+        width: 195
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9135c0b583a7cf469f4fba7b4f53093
+      internalID: 1836306998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "d\xFC\u015Fen yapraklar-Sheet_18"
+      rect:
+        serializedVersion: 2
+        x: 3621
+        y: 0
+        width: 195
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb78f57dfacb03b44a8727cef7d9669c
+      internalID: -1246273822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "d\xFC\u015Fen yapraklar-Sheet_19"
+      rect:
+        serializedVersion: 2
+        x: 3821
+        y: 0
+        width: 195
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eaaceaa7791bde44b99f4f70ca1eacd
+      internalID: -1057626307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "d\xFC\u015Fen yapraklar-Sheet_20"
+      rect:
+        serializedVersion: 2
+        x: 4023
+        y: 0
+        width: 195
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f82f5941667ca64e82b08d218eecc58
+      internalID: 580893895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "d\xFC\u015Fen yapraklar-Sheet_21"
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 0
+        width: 195
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5e6c35a52c30c40bab811134578747
+      internalID: 902893987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "d\xFC\u015Fen yapraklar-Sheet_22"
+      rect:
+        serializedVersion: 2
+        x: 4425
+        y: 0
+        width: 195
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875e9284573efb449aa13db95e09b36d
+      internalID: -1582970939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "d\xFC\u015Fen yapraklar-Sheet_23"
+      rect:
+        serializedVersion: 2
+        x: 4626
+        y: 0
+        width: 195
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa7197342a1c6447864ddf60da7763a
+      internalID: 582061965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "d\xFC\u015Fen yapraklar-Sheet_24"
+      rect:
+        serializedVersion: 2
+        x: 4827
+        y: 0
+        width: 195
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774559b98f28dda45aea79f055c0cb36
+      internalID: -78071521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "d\xFC\u015Fen yapraklar-Sheet_25"
+      rect:
+        serializedVersion: 2
+        x: 5028
+        y: 0
+        width: 195
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d65f8522ab25f245afdc2075d6f58a3
+      internalID: 1518298259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "d\xFC\u015Fen yapraklar-Sheet_26"
+      rect:
+        serializedVersion: 2
+        x: 5229
+        y: 0
+        width: 195
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8182baf7961a4449ff3c23e69e9444
+      internalID: 759049663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "d\xFC\u015Fen yapraklar-Sheet_27"
+      rect:
+        serializedVersion: 2
+        x: 5431
+        y: 0
+        width: 195
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e92ecd95bd620438f534e5f4a18959
+      internalID: 469493073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "d\xFC\u015Fen yapraklar-Sheet_28"
+      rect:
+        serializedVersion: 2
+        x: 5631
+        y: 0
+        width: 195
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d4b666fd1cbb84188f18f0a056edb6
+      internalID: -44922082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "d\xFC\u015Fen yapraklar-Sheet_29"
+      rect:
+        serializedVersion: 2
+        x: 5832
+        y: 0
+        width: 195
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97eac6b08c5feca40ba21cb9710b2d0c
+      internalID: 2025060850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "d\xFC\u015Fen yapraklar-Sheet_22": -1582970939
+      "d\xFC\u015Fen yapraklar-Sheet_6": -1314724233
+      "d\xFC\u015Fen yapraklar-Sheet_25": 1518298259
+      "d\xFC\u015Fen yapraklar-Sheet_4": 1182780175
+      "d\xFC\u015Fen yapraklar-Sheet_3": 1743312640
+      "d\xFC\u015Fen yapraklar-Sheet_1": 881915816
+      "d\xFC\u015Fen yapraklar-Sheet_19": -1057626307
+      "d\xFC\u015Fen yapraklar-Sheet_15": -1211149415
+      "d\xFC\u015Fen yapraklar-Sheet_10": 1758163541
+      "d\xFC\u015Fen yapraklar-Sheet_17": 1836306998
+      "d\xFC\u015Fen yapraklar-Sheet_24": -78071521
+      "d\xFC\u015Fen yapraklar-Sheet_13": 1749821636
+      "d\xFC\u015Fen yapraklar-Sheet_18": -1246273822
+      "d\xFC\u015Fen yapraklar-Sheet_11": 1709254974
+      "d\xFC\u015Fen yapraklar-Sheet_27": 469493073
+      "d\xFC\u015Fen yapraklar-Sheet_2": 1260968072
+      "d\xFC\u015Fen yapraklar-Sheet_20": 580893895
+      "d\xFC\u015Fen yapraklar-Sheet_26": 759049663
+      "d\xFC\u015Fen yapraklar-Sheet_16": -1061763408
+      "d\xFC\u015Fen yapraklar-Sheet_9": -691648856
+      "d\xFC\u015Fen yapraklar-Sheet_21": 902893987
+      "d\xFC\u015Fen yapraklar-Sheet_0": -81542199
+      "d\xFC\u015Fen yapraklar-Sheet_12": -1816073849
+      "d\xFC\u015Fen yapraklar-Sheet_28": -44922082
+      "d\xFC\u015Fen yapraklar-Sheet_29": 2025060850
+      "d\xFC\u015Fen yapraklar-Sheet_5": 734264029
+      "d\xFC\u015Fen yapraklar-Sheet_8": 315500695
+      "d\xFC\u015Fen yapraklar-Sheet_14": -1495262584
+      "d\xFC\u015Fen yapraklar-Sheet_23": 582061965
+      "d\xFC\u015Fen yapraklar-Sheet_7": 465582544
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
